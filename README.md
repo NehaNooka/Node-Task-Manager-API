@@ -1,6 +1,5 @@
 # Node-Task-Manager-API</br>
-## [Link](https://www.getpostman.com/collections/f9e527fe11040c717f50)
-## APIS- 
+## [APIs](https://www.getpostman.com/collections/f9e527fe11040c717f50)
      - Register user
      - Login user 
      - Logout user
